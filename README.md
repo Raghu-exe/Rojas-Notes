@@ -121,7 +121,16 @@ The constitution went into affect in the year 1787, and by 1789 all 13 states ha
 The Constitution is the oldest government document in the world, having been around for almost 232 years!!
 
 
+
+
+
+
 Notes After the First Quiz
+
+
+
+
+
 
  IA- There are four basic principles of the Constitution. They are: 
 	- Separation of Powers
@@ -248,7 +257,14 @@ Amendment 27. Congress cannot get a pay raise until the next term. 
 The following 16 amendments were ratified to fix a problem in the Constitution or American government, or to provide freedoms and rights to the people. However, only a total of 27 amendments have been ratified. This indicates that the Framers did not want the American people to create drastic changes to the Constitution.
 
 
+
+
+
 Notes After the 2nd Quiz:
+
+
+
+
 
 IA- Federalism is a system of government which divides the jurisdiction of a national government and lesser, lower local governments. Federalism creates two governments, each with its own specific jurisdiction, which rarely correlates with each other. The populace has to abide by two distinct laws, one which is national . And the other which is state
 
