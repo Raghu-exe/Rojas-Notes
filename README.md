@@ -268,6 +268,21 @@ IB- The framers created Federalism. They did not specifically write down how it 
 When an enumerated power is related to another power found in the Constitution, or it is believed that they belong to the federal government. They are called inherent powers. An example of this is the president’s powers to create executive agreements with another foreign country, or starting a war with another country
 The Federalist papers also stated that anything which is not written in the constitution belongs to the state governments. This is also enforced by the 10th amendment. These powers are called: 
 
+IA- The Framers wrote the Constitution with limited power for the federal government. It stated that these powers were to be called expressed powers because they were written exclusively for the federal government. These powers include the power to tax, or to regulate trade, or to coin money, and to declare . Most of these powers are found in Article 1 , section 8. 
+Inherent powers are those which are considered to be national because they are associated with a certain branch of government. EX: Presidents have in the past waged wars because they are the commander in chief. 
+
+IB- Powers not written in the constitution belong to the states. These are called  state powers, reserved powers, or states rights.These laws and powers that the state has influence and control your life the most. EX: laws dealing with education; how fast or slow you can drive; the rate and speed of your internet/wifi-connection; who you can and cannot marry; and at what age you are considered an adult! The state powers are divided into four categories: public health, morals, safety and general welfare.
+
+IC- There are times when the national and state governments will coincide in their jurisdiction of laws. This is called concurrent powers. The national government and state governments have an exact same law, but with different ideas and enforcement. EX: taxes, fines, court system, drug laws.
+
+IIA- Federalism in the USA has been around since the ratification of the Constitution. These are two periods of federalism, one that lasted for almost a century and a half, and the other we are currently in. 
+ Dual Federalism lasted from	1789 to 1933, and it was how the national government and state governments coexisted. The national government rarely involved itself in state matters, and when it did the national government had to have a major constitution; issue it need to resolve that the states could not. (Sometimes called layer cake federalism, after the type of cake.)
+
+Dual fedaralism ended in 1933 because of the New Deal. 
+
+IIB- Starting with the New Deal programs, and continuing to today, the national government has found ways to interfere with state powers. The national government has given government funding to the states, and this in which the national government can influence and interfere in areas usually reserved for the state governments. (often called marble layer cake , as in the type of cake where there is no separate layers) This is called cooperative federalism, because it is believed that the national government and state governments are cooperating with each other, but in reality the	national government is manipulating the state government to change and do its bidding. 
+
+
 
 
 
