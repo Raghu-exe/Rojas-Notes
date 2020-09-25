@@ -398,8 +398,8 @@ Starting with the New Deal programs, and continuing to today, the national gover
 
 ---
 
-- The national government involves itself and is able to achieve its goals and objectives on state issues. It does this by using three major clauses in the Constitution: the ____ to ___: to ___ ____ ____, and the Necessary and Proper clauses.
-- These three clauses are major power to the national government: using them allows the national governments to set an agenda that the state governments must follow. This began in 1933 with FDR's new deal programs, and over the decades each President has used the clauses to obtain their agenda over states.
+- The national government involves itself and is able to achieve its goals and objectives on state issues. It does this by using three major clauses in the Constitution: the ___ to ___: to ___ ____ ____, and the Necessary and Proper clauses.
+- These three clauses are major power to the national government: using them allows the national governments to set an agenda that the state governments must follow. This began in 1933 with FDR's new deal programs, and over the decades each President has used these clauses to obtain their agenda over states.
     - EX: LBJ was able to eliminate segregation in the USA; Nixon was able to implement affirmative action; and Obama introduced that hideous, horrible, mind stupefying program called **common core**!!!
 
 ### IB
@@ -407,10 +407,11 @@ Starting with the New Deal programs, and continuing to today, the national gover
 ---
 
 - Even with the national government intruding into areas reserved for the states, *the national government offers monetary incentives to make sure its agenda is followed through by the states.*
-- The national government offers grants and aids, which are large chunks of federal funds that are offered to the states in return for implementation of national laws and guidelines.
-- Two types of grant names: block grants and categorical grants. Both come with stipulations and restrictions on how to use the money
+- The national government offers grants in aids, which are large chunks of federal funds that are offered to the states in return for implementation of national laws and guidelines.
+- Two types of grants in aid: block grants and categorical grants. Both come with stipulations and restrictions on how to use the money
 - Since many state governments are very much strapped for the funding, they will take the federal government's money and implement the regulations despite the impact it might have on their state.
-- EX: Louisiana in 1984, All other states had raised the drinking age to 21, but LA continued at the age of 18. Teens and college students went to LA for the lower drinking age. LA also had terrible roads and highways, which many drivers complained about when travelling across LA. LA asked the national government for funding for their roads and highways; the national government would give them millions of dollars if they increase the voting age to 21!!! LA raised the voting age to 21.
+
+- Since many states governments are very much strapped for funding, they will take the government's money and implement the regulations despite the effects it might have on their state. EX: Louisiana in 1984, All other states had raised the drinking age to 21, but Louisiana continued at the age of 18. Teens and college students went to Louisiana for the lower drinking age. Louisiana also had terrible roads and highways, which many drivers complained about when travelling across LA. LA asked the national government for funding for their roads and highways; the national government would give them millions of dollars if they increase the drinking age to 21!!! LA raised the drinking age to 21.
 
 ### IIA
 
@@ -441,9 +442,9 @@ Starting with the New Deal programs, and continuing to today, the national gover
 
 ---
 
-- If you commit a crime in CA, you are caught in another state, CA can request for your presence.
+- If you commit a crime in CA, you are caught in another state, CA can request for your extradition.
 - The state that has you must return you to CA, unless a pressing or major reason doesn't allow for the transfer.
-
+EX- incomplete paper work, lack of evidence, concern of treatment. This clause was mainly used to return runaway slaves, not criminal suspects. With the increase in technology, and computers extradition is used more frequently in the United States today. 
 
 
 
