@@ -1,5 +1,5 @@
 # Rojas-Notes
-These will be notes from the worst teacher I have this year
+These will be notes 
 
 All Governments have two major responsibilities/functions: 
 - Collect revenue/taxes
