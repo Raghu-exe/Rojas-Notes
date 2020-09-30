@@ -153,7 +153,7 @@ Many believe that the delegates wrote the constitution in this manner so that on
 
 ---
 
-After four months, the delegates finished writing the constitution. It was signed by 39 delegates, and it was considered to be enacted on October 17 ,1787.
+After four months, the delegates finished writing the constitution. It was signed by 39 delegates, and it was considered to be enacted on September 17 ,1787.
 Now the delegates had to return to their home states and gain the approval of the people in ratifying the new constitution to replace the Articles of Confederation. 
 
 ## IIA
