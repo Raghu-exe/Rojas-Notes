@@ -50,10 +50,14 @@ The Articles of Confederation were going to fail. WHY? It failed to perform the 
 Five reason the Articles did not succeed:
 
 1. No Executive branch; no one to enforce the laws passed by Congress
-No Judicial branch; disputes between the states were left unresolved.
-No power to tax; this meant it could not collect revenue, and not pay any of its debt
-No national currency: meant that each state could enact its own currency and this caused massive inflation in the economy
-Impossible to amend the Articles of confederation: this meant that the Articles of Confederation would remain stagnant and incapable of making changes to deal with society and the world!!
+
+2. No Judicial branch; disputes between the states were left unresolved.
+
+3. No power to tax; this meant it could not collect revenue, and not pay any of its debt
+
+4. No national currency: meant that each state could enact its own currency and this caused massive inflation in the economy
+
+5. Impossible to amend the Articles of confederation: this meant that the Articles of Confederation would remain stagnant and incapable of making changes to deal with society and the world!!
 
 ## II.b.2
  Every state knew that the Articles of Confederation needed revision, but enjoyed the fact that they held the power and not the federal government. So the did not want to make any changes. Would accept the inequities and shortcoming of the Articles of Confederation  
