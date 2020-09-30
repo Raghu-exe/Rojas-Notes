@@ -235,17 +235,18 @@ The Bill of Rights were written to appease the Anti-Federalists who claimed that
 The Bill of Rights place restriction on which rights and liberties the government cannot remove or abolish. 
 
 The Bill of Rights are as follows:
-										 Amendment 1								- 									-Freedom of Religion, Speech, and the Press
+		
+		Amendment 1								- 									-Freedom of Religion, Speech, and the Press
 Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof, or abridging the freedom of speech or of the press, or the right of the people peaceably to assemble and to petition the government for a redress of grievances.
 
-										Amendment 2																		- The Right to Bear Arms
+		Amendment 2																		- The Right to Bear Arms
 A well-regulated Militia being necessary to the security of a free State, the right of the people to keep and bear Arms shall not be infringed.
 
-										Amendment 3																		- The Housing of Soldiers
+		Amendment 3																		- The Housing of Soldiers
 No soldier shall, in time of peace, be quartered in any house without the consent of the owner, nor in time of war but in a manner to be prescribed by law.
 
-										Amendment 4
-									- Protection from Unreasonable Searches and Seizures
+		Amendment 4
+     - Protection from Unreasonable Searches and Seizures
 The right of the people to be secure in their persons, houses, papers, and effects against unreasonable searches and seizures shall not be violated, and no warrants shall issue but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.
 
 										Amendment 5
