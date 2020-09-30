@@ -236,10 +236,10 @@ The Bill of Rights place restriction on which rights and liberties the governmen
 
 The Bill of Rights are as follows:
 		
-		Amendment 1								- 									---		-Freedom of Religion, Speech, and the Press
+		Amendment 1								- 									---		   - Freedom of Religion, Speech, and the Press
 Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof, or abridging the freedom of speech or of the press, or the right of the people peaceably to assemble and to petition the government for a redress of grievances.
 
-		Amendment 2																	---		- The Right to Bear Arms
+		Amendment 2																	---		   - The Right to Bear Arms
 A well-regulated Militia being necessary to the security of a free State, the right of the people to keep and bear Arms shall not be infringed.
 
 		Amendment 3																			- The Housing of Soldiers
