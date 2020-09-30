@@ -306,33 +306,61 @@ Political scientists and teachers categorize the next 16 amendments into one of 
 
 All of the amendments
  
-Amendment 1. The freedom of religion, speech, and to peacefully assemble together. 
-Amendment 2. The right to own a gun. 
-Amendment 3. The right to not house a solider. 
-Amendment 4. The right to not be searched or have something taken away within reason. 
-Amendment 5. The right to life, liberty, property, and no double jeopardy or self-incrimination.
-Amendment 6. The right to a speedy trial, public trial, and with a jury of your peers. 
-Amendment 7. The right to a jury trial in a civil case. 
-Amendment 8. Protection from excessive bail, and cruel and unusual punishments. 
-Amendment 9. The rights not listed in the Constitution. 
-Amendment 10. Any rights not given to the federal government are given to the states.
-Amendment 11. Protects the states from law suits. 
-Amendment 12. There are separate ballets for the President and Vice President.
-Amendment 13. The abolishment of slavery.
-Amendment 14. Equal protection under the Constitution for all United States citizens. 
-Amendment 15. No voting discrimination of race.
-Amendment 16. Income tax is legal. 
-Amendment 17. Popular vote for United States Senate.
-Amendment 18. Prohibition of alcohol.
-Amendment 19. Women's right to vote.
-Amendment 20. Moving of dates for terms of presidency. 
-Amendment 21. Repeal of prohibition of alcohol.
-Amendment 22. Limits the terms Presidents can serve. 
-Amendment 23. Washington D.C. have the right to vote for President.
-Amendment 24. No poll taxes are allowed. 
-Amendment 25. The succession for presidency shall something happen to the President.  
-Amendment 26. The minimum voting age is 18.
-Amendment 27. Congress cannot get a pay raise until the next term. 
+Amendment 1 - The freedom of religion, speech, and to peacefully assemble together. 
+
+Amendment 2 - The right to own a gun. 
+
+Amendment 3 - The right to not house a solider. 
+
+Amendment 4 - The right to not be searched or have something taken away within reason. 
+
+Amendment 5 - The right to life, liberty, property, and no double jeopardy or self-incrimination.
+
+Amendment 6 - The right to a speedy trial, public trial, and with a jury of your peers. 
+
+Amendment 7 - The right to a jury trial in a civil case. 
+
+Amendment 8 - Protection from excessive bail, and cruel and unusual punishments. 
+
+Amendment 9 - The rights not listed in the Constitution. 
+
+Amendment 10 - Any rights not given to the federal government are given to the states.
+
+Amendment 11 - Protects the states from law suits. 
+
+Amendment 12 - There are separate ballets for the President and Vice President.
+
+Amendment 13 - The abolishment of slavery.
+
+Amendment 14 - Equal protection under the Constitution for all United States citizens. 
+
+Amendment 15 - No voting discrimination of race.
+
+Amendment 16 - Income tax is legal. 
+
+Amendment 17 - Popular vote for United States Senate.
+
+Amendment 18 - Prohibition of alcohol.
+
+Amendment 19 - Women's right to vote.
+
+Amendment 20 - Moving of dates for terms of presidency. 
+
+Amendment 21 - Repeal of prohibition of alcohol.
+
+Amendment 22 - Limits the terms Presidents can serve. 
+
+Amendment 23 - Washington D.C. have the right to vote for President.
+
+Amendment 24 - No poll taxes are allowed. 
+
+Amendment 25 - The succession for presidency shall something happen to the President.  
+
+Amendment 26 - The minimum voting age is 18.
+
+Amendment 27 - Congress cannot get a pay raise until the next term. 
+
+
 
 
 The following 16 amendments were ratified to fix a problem in the Constitution or American government, or to provide freedoms and rights to the people. However, only a total of 27 amendments have been ratified. This indicates that the Framers did not want the American people to create drastic changes to the Constitution.
