@@ -133,6 +133,8 @@ How did the issue of slaves and slavery a major area of conflagration at the con
 The delegates wanted to fix the problems of the Articles; the five major problems being: No executive branch; no power to tax; no judicial branch, no national currency, no regulation of trade, interstate commerce or international trade. 
 For every one of the major problems, the Framers included a solution in the constitution. (Your assignment is to locate specifically in the constitution where is the solution. GET TO IT!!)
 
+Location of changes in the Constitution
+
 1. Executive branch is cited in article 2 section 1 
 2. Taxation is cited in Article 1 section 8 clause 2 
 3. Judicial branch is cited in Article 3 section 1 
