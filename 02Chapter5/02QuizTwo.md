@@ -44,18 +44,18 @@ C. Reforming the system
 
 6. Election Day
 
-    Falls on _electoral college_. Here the people are voting for the _electors_ of the _political party _, which will then vote in the __ for the candidate. The popular vote does not elect the president; Instead it is the ___ ____. 
+    General elections - Falls on Tuesday after the first Monday in November . Here the people are voting for the electors of the political parties , which will then vote in the electoral college for the candidate. The popular vote does not elect the president; instead it is (and always has been) the electoral college. (Had the popular vote been considered, we would have Al Gor as President in 2000 and Hillary Rodham Clinton as President in 2016 ) Why does the popular vote not count?
 
 7. Electoral College
 
-    Comes together in each different state, on ____, to count the popular vote and convert it to an electoral count. Each __ has an equal number of votes as it has members in ___ ; for example, CA has ___ because it has __ members in the ____ of ____ and __ members in the ____. There is a total of ____ ____ ___, and the winning number is ____. A candidate that fails to obtain the ___ votes then has the election decided by the ___ ___ ___, as dictated by the ___. 
+    Electoral college convenes - and comes together in each state capitol on December 8, to count the popular vote and convert it to an electoral count. Each has an equal number of votes as it has members in congress ; for example, CA has 55 because it has 55 members in the house of representatives and 2 members in the Senate. There is a total of 538 electoral votes, and the winning number is 270. A candidate that fails to obtain the electoral votes then has the election decided by the House of Representative, as dictated by the Constitution.
 
-8. Inauguration Day: On January 20th, before a joint session of ____, the number of electoral votes are read and recorded. the winner is announced. Two weeks later, on ___ ___, exactly at ____ the _____ ____ of the United States ___ ___ administers the ___ of ___ to the winner, and at that point that person is consider to be the ___ ___ __ ___ ___. And let the head aches begin!!!
+8. Inauguration Day - On January 6, before the joint session of congress, the number of electoral votes are read and recorded. The winner is announced. Two weeks later, on January 20, exactly at noon the Chief Justice of the United States Supreme Court administers the oath of office to the winner, and at that point that person is is considered to the President of the United States, And let the headache begin!!
 
-IIA- The Electoral college determined who shall be president of the US. Only one candidate ever won all of the electoral votes: ___ ___. The Framers created the Electoral college for a variety of reasons, the most important one was that they __ __ have a ___ opinion ___ of the ___.
+IIA- The Electoral college determined who shall be president of the US. Only one candidate ever won all of the electoral votes: George Washington. The Framers created the Electoral college for a variety of reasons, the most important one was that they did not  have a high opinion opinion of the people.
 
-- The Framers considered the ___ to be ___, ___, ___, ___, __, __**_ - ____,** and easily by a charismatic __ that could destroy this great ___.
-- Every few years there is a debate about whether to remove the Electoral College (most often whenever the __ have lost the election; seen in the _____ and more recently in the ___ election). The debate has grown louder in recent years.
+- The Framers considered the population dumb, ignorant, uneducated, ill-informed, slow, simple - minded and easily swayed by a charismatic candidate that could destroy this great country.
+- Every few years there is a debate about whether to remove the Electoral college (most often whenever the democrats have lost the election; seen in the 2000 and more recently in the 2016 election). The debate has grown louder in the recent years.
 
 ### IIB
 
